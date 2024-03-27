@@ -1,4 +1,4 @@
-public class variables_9p5 {
+public class _9p5_variables {
     public static void main(String[] args) {
         int a = 10;
         int b = 5;
