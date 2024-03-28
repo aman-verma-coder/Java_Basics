@@ -14,6 +14,6 @@ public class _9p9_inputInJava {
         // sc.close();
         boolean ok = sc.nextBoolean();
         System.out.println(ok);
-        // sc.close();
+        sc.close();
     }
 }
