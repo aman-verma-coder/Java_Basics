@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class _9p12_areaOfCircle {
     public static void main(String[] args) {
-        double radius, pi, area;
-        pi = 3.14;
+        float radius, pi, area;
+        pi = 3.14f;
         System.out.println("Enter the radius of the circle: ");
         Scanner sc = new Scanner(System.in);
         radius = sc.nextInt();
