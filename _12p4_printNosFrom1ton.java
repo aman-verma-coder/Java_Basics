@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _12p34_printNosFrom1ton {
+public class _12p4_printNosFrom1ton {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number: ");
